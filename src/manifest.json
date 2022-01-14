@@ -9,7 +9,7 @@
     "chrome_settings_overrides": {
         "search_provider": {
             "name": "AUR packages",
-            "search_url": "https://aur.archlinux.org/packages/?K={searchTerms}",
+            "search_url": "https://aur.archlinux.org/packages/?K={searchTerms}&SB=p&SO=d",
             "favicon_url": "https://aur.archlinux.org/images/favicon.ico",
             "keyword": "aur"
         }
